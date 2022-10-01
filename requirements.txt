@@ -1,0 +1,3 @@
+streamlit==1.12.2
+streamlit-drawable-canvas==0.9.1
+st-clickable-images==0.0.3
