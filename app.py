@@ -79,7 +79,7 @@ if __name__ == '__main__':
              "of the page.")
 
     # Read information from individual files with meta-information
-    df = pd.read_csv("./marine_plankton_current.txt", sep="\t")
+    df = pd.read_csv("./marine_plankton.txt", sep="\t")
 
     # Filtering
     assoc_dict = {"Copepoda" : "Copepoda", \
@@ -99,7 +99,7 @@ if __name__ == '__main__':
         df = df.loc[~df["Group"].isin(groups), :]
 
     # Read NCBI information
-    df_ncbi = pd.read_csv("./marine_plankton_current_NCBItaxreport.txt", sep="|", engine="python")
+    df_ncbi = pd.read_csv("./marine_plankton_NCBItaxreport.txt", sep="|", engine="python")
     df_ncbi = df_ncbi.drop("code\t" ,axis=1)
     df_ncbi = df_ncbi.drop("\tpreferred name\t" ,axis=1)
     df_ncbi = df_ncbi.rename(columns={"\ttaxid": "taxid", "\tname\t": "taxname"})
@@ -109,14 +109,14 @@ if __name__ == '__main__':
     # Define columns
     image_links = list(df["ImageLink"])
     species_names = list(df["ScientificName"])
-
+    
     st.sidebar.markdown("<b>Pages with images:</b>", unsafe_allow_html=True)
     image_iterator = paginator("Select a page", image_links)
     indices_on_page, images_on_page = map(list, zip(*image_iterator))
 
     clicked = clickable_images( images_on_page, indices_on_page,\
                                 div_style={"display": "flex", "justify-content": "center", "flex-wrap": "wrap"}, \
-                                img_style={"margin": "10px", "width": "150px"})
+                                img_style={"object-fit": "contain", "max-width": "180px", "max-height": "200 px", "margin": "15px", "width": "auto", "height": "auto"})
  
     # Display detailed information upon click
     if clicked > -1:
@@ -132,10 +132,12 @@ if __name__ == '__main__':
         st.image(df.iloc[clicked, 2], width=600)
     
         # Link to GBIF
-        worms_link='WoRMS: [Link]({link})'.format(link="https://www.marinespecies.org/aphia.php?p=taxdetails&id="+str(df.iloc[clicked, 1]))
-        st.markdown(worms_link, unsafe_allow_html=True)
+        df_worms_tmp = df.iloc[clicked, 1]
+        if df_worms_tmp != 0:
+            worms_link='WoRMS: [Link]({link})'.format(link="https://www.marinespecies.org/aphia.php?p=taxdetails&id="+str(df.iloc[clicked, 1]))
+            st.markdown(worms_link, unsafe_allow_html=True)
         # Link to NCBI
-        df_tmp = df_ncbi.loc[df_ncbi["taxname"]==df.iloc[clicked, 0], :]
-        if not(df_tmp.empty):
-            ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_tmp["taxid"])[0]))
+        df_ncbi_tmp = df_ncbi.loc[df_ncbi["taxname"]==df.iloc[clicked, 0], :]
+        if not(df_ncbi_tmp.empty):
+            ncbi_link='NCBI Taxonomy: [Link]({link})'.format(link="https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id="+str(list(df_ncbi_tmp["taxid"])[0]))
             st.markdown(ncbi_link, unsafe_allow_html=True)

@@ -1,0 +1,369 @@
+
+code	|	name	|	preferred name	|	taxid
+3	|	ScientificName	|	 	|	 
+1	|	Florenciella	|	 	|	236786
+1	|	Aphia minuta	|	 	|	441899
+3	|	Setaphyes cimarensis	|	 	|	 
+3	|	Paranemonia cinerea	|	 	|	 
+1	|	Paracyathus pulchellus	|	 	|	130085
+1	|	Oikopleura dioica	|	 	|	34765
+1	|	Pycnoclavella communis	|	 	|	406073
+1	|	Ascidiella scabra	|	 	|	1298853
+1	|	Chaetoceros socialis	|	 	|	163503
+1	|	Chaetoceros densus	|	 	|	2589062
+1	|	Chaetoceros danicus	|	 	|	426631
+1	|	Chaetoceros didymus	|	 	|	49238
+1	|	Chaetoceros curvisetus	|	 	|	230516
+1	|	Chaetoceros compressus	|	 	|	426629
+1	|	Chaetoceros debilis	|	 	|	122233
+1	|	Chaetoceros eibenii	|	 	|	2082236
+3	|	Cerataulina bergonii	|	 	|	 
+1	|	Helicotheca tamesis	|	 	|	374047
+1	|	Pleurosigma	|	 	|	197752
+1	|	Guinardia	|	 	|	216800
+1	|	Proboscia alata	|	 	|	216777
+1	|	Rhizosolenia delicatula	|	 	|	1244696
+1	|	Rhizosolenia setigera	|	 	|	3005
+3	|	Rhizosolenia semispina	|	 	|	 
+1	|	Rhizosolenia imbricata	|	 	|	216768
+1	|	Thalassionema nitzschioides	|	 	|	33649
+1	|	Skeletonema costatum	|	 	|	2843
+1	|	Odontella aurita	|	 	|	265563
+1	|	Caecitellus	|	 	|	127147
+1	|	Cafeteria	|	 	|	33652
+1	|	Atrina fragilis	|	 	|	192015
+1	|	Penilia avirostris	|	 	|	124140
+1	|	Pleopis polyphemoides	|	 	|	186178
+1	|	Podon intermedius	|	 	|	141401
+1	|	Pseudevadne tergestina	|	 	|	186180
+1	|	Sycon raphanus	|	 	|	56443
+3	|	Acartia (Acartia) danae	|	 	|	 
+1	|	Acartia	|	 	|	121148
+1	|	Euchirella rostrata	|	 	|	503028
+1	|	Haloptilus longicornis	|	 	|	749005
+1	|	Calanus helgolandicus	|	 	|	114068
+1	|	Calanus	|	 	|	6836
+1	|	Mesocalanus tenuicornis	|	 	|	149013
+1	|	Nannocalanus minor	|	 	|	134924
+1	|	Neocalanus gracilis	|	 	|	211078
+1	|	Candacia bipinnata	|	 	|	248471
+1	|	Candacia simplex	|	 	|	883817
+1	|	Candacia ethiopica	|	 	|	207967
+1	|	Candacia armata	|	 	|	261850
+1	|	Candacia	|	 	|	207966
+1	|	Centropages typicus	|	 	|	463189
+1	|	Centropages hamatus	|	 	|	136183
+1	|	Centropages violaceus	|	 	|	862097
+1	|	Centropages bradyi	|	 	|	248467
+1	|	Centropages chierchiae	|	 	|	1267141
+1	|	Centropages	|	 	|	136182
+1	|	Clausocalanus arcuicornis	|	 	|	148996
+1	|	Clausocalanus furcatus	|	 	|	149001
+1	|	Clausocalanus	|	 	|	148995
+1	|	Ctenocalanus vanus	|	 	|	182798
+1	|	Pseudocalanus elongatus	|	 	|	136184
+1	|	Euchaeta marina	|	 	|	544693
+1	|	Lucicutia	|	 	|	544704
+3	|	Metridia lucens lucens	|	 	|	 
+3	|	Pleuromamma abdominalis abdominalis	|	 	|	 
+3	|	Pleuromamma gracilis gracilis	|	 	|	 
+1	|	Pleuromamma borealis	|	 	|	748990
+1	|	Pleuromamma gracilis	|	 	|	749010
+1	|	Pleuromamma	|	 	|	148583
+1	|	Calocalanus pavo	|	 	|	749177
+1	|	Calocalanus	|	 	|	749175
+3	|	Labidocera wollastoni	|	 	|	 
+1	|	Rhincalanus cornutus	|	 	|	248754
+3	|	Rhincalanus cornutus cornutus	|	 	|	 
+1	|	Scolecithricella	|	 	|	121143
+1	|	Scolecithrix danae	|	 	|	544707
+1	|	Subeucalanus crassus	|	 	|	248757
+1	|	Temora longicornis	|	 	|	261852
+1	|	Temora stylifera	|	 	|	399051
+1	|	Corycaeus	|	 	|	749183
+1	|	Farranula rostrata	|	 	|	1124504
+1	|	Oithona nana	|	 	|	136191
+1	|	Oithona	|	 	|	136190
+1	|	Oncaea	|	 	|	349674
+1	|	Sapphirina nigromaculata	|	 	|	2949293
+1	|	Sapphirina	|	 	|	749173
+1	|	Euterpina acutifrons	|	 	|	163466
+1	|	Harpacticoida	|	 	|	41212
+1	|	Leucocryptos	|	 	|	299205
+1	|	Chroococcales	|	 	|	1118
+1	|	Pseudopedinella	|	 	|	35683
+1	|	Amphidinium operculatum	|	 	|	107036
+1	|	Amphidinium	|	 	|	2960
+1	|	Blastodinium	|	 	|	363324
+1	|	Haplozoon	|	 	|	160616
+1	|	Azadinium	|	 	|	632149
+1	|	Amphisolenia	|	 	|	584886
+1	|	Dinophysis sacculus	|	 	|	83649
+1	|	Dinophysis fortii	|	 	|	150623
+1	|	Dinophysis acuminata	|	 	|	47934
+1	|	Dinophysis caudata	|	 	|	150622
+1	|	Dinophysis	|	 	|	47933
+1	|	Ornithocercus	|	 	|	566468
+1	|	Sinophysis	|	 	|	1162738
+3	|	Tripos teres	|	 	|	 
+1	|	Tripos carriensis	|	 	|	2795478
+1	|	Tripos extensus	|	 	|	644171
+3	|	Tripos longissimus	|	 	|	 
+1	|	Ceratiaceae	|	 	|	39451
+1	|	Ceratocorys	|	 	|	66799
+3	|	Cladopyxis	|	 	|	 
+3	|	Palaeophalacroma unicinctum	|	 	|	 
+1	|	Amylax triacantha	|	 	|	447208
+1	|	Gonyaulax	|	 	|	2912
+1	|	Lingulodinium polyedra	|	 	|	160621
+1	|	Alexandrium leei	|	 	|	2937
+1	|	Alexandrium catenella	|	 	|	2925
+1	|	Alexandrium taylorii	|	 	|	109157
+1	|	Alexandrium tamarense	|	 	|	2926
+1	|	Ostreopsis	|	 	|	78882
+1	|	Karenia mikimotoi	|	 	|	225107
+1	|	Akashiwo	|	 	|	143671
+1	|	Cochlodinium	|	 	|	77299
+1	|	Cochlodinium	|	 	|	77299
+1	|	Gymnodinium catenatum	|	 	|	39447
+1	|	Gymnodinium	|	 	|	2955
+1	|	Gyrodinium	|	 	|	60594
+1	|	Gyrodinium	|	 	|	60594
+1	|	Karlodinium	|	 	|	157684
+1	|	Karlodinium	|	 	|	157684
+3	|	Kofoidinium velleloides	|	 	|	 
+3	|	Pronoctiluca pelagica	|	 	|	 
+3	|	Pronoctiluca spinifera	|	 	|	 
+1	|	Heterocapsa rotundata	|	 	|	89963
+3	|	Corythodinium	|	 	|	 
+3	|	Oxytoxum	|	 	|	 
+1	|	Calciodinellum albatrosianum	|	 	|	268829
+1	|	Peridinium	|	 	|	2867
+1	|	Scrippsiella acuminata	|	 	|	1691973
+1	|	Scrippsiella operosa	|	Calciodinellum operosum	|	204317
+1	|	Scrippsiella trochoidea	|	 	|	71861
+3	|	Scrippsiella regalis	|	 	|	 
+1	|	Podolampas	|	 	|	699223
+3	|	Protoperidinium murray	|	 	|	 
+1	|	Protoperidinium	|	 	|	261839
+1	|	Prorocentrum mexicanum	|	 	|	72677
+1	|	Prorocentrum balticum	|	 	|	71860
+1	|	Prorocentrum cordatum	|	 	|	2364126
+1	|	Prorocentrum dentatum	|	 	|	260685
+1	|	Prorocentrum triestinum	|	 	|	39450
+1	|	Prorocentrum	|	 	|	2944
+1	|	Amoebophrya	|	 	|	88551
+1	|	Thoracosphaera heimii	|	 	|	2923
+1	|	Katodinium	|	 	|	373099
+1	|	Echinocyamus pusillus	|	 	|	337426
+1	|	Ellobiopsis	|	 	|	663228
+3	|	Hydrolithon farinosum	|	 	|	 
+1	|	Pneophyllum fragile	|	 	|	348041
+3	|	Predaea pusilla f. alboranensis	|	 	|	 
+1	|	Bittium reticulatum	|	 	|	2219155
+1	|	Cerithiopsis tubercularis	|	 	|	1202178
+1	|	Retusa truncatula	|	 	|	2951298
+1	|	Myosotella myosotis	|	 	|	252580
+1	|	Melarhaphe neritoides	|	 	|	58619
+1	|	Euspira nitida	|	 	|	489456
+3	|	Crisilla semistriata	|	 	|	 
+1	|	Rissoa violacea	|	 	|	696274
+1	|	Bela nebula	|	 	|	2268697
+1	|	Mangelia attenuata	|	 	|	1676548
+1	|	Ocinebrina aciculata	|	 	|	1017313
+1	|	Tritia incrassata	|	 	|	1973334
+1	|	Cyrillia linearis	|	 	|	358444
+1	|	Trapania maculata	|	 	|	2909347
+1	|	Jujubinus striatus	|	 	|	703299
+1	|	Jujubinus exasperatus	|	 	|	703306
+1	|	Noemiamea dolioliformis	|	 	|	177492
+3	|	Rissoella opalina	|	 	|	 
+3	|	Tenuitellita iota	|	 	|	 
+1	|	Beella digitata	|	 	|	1413790
+1	|	Globigerina falconensis	|	 	|	164913
+1	|	Globigerina bulloides	|	 	|	69025
+1	|	Globigerinella calida	|	 	|	69026
+1	|	Globigerinella siphonifera	|	 	|	46132
+1	|	Globigerinoides ruber	|	 	|	46089
+1	|	Globigerinoides tenellus	|	 	|	2606479
+1	|	Globoturborotalita rubescens	|	 	|	1176039
+1	|	Orbulina universa	|	 	|	46134
+3	|	Trilobatus sacculifer	|	 	|	 
+1	|	Turborotalita quinqueloba	|	 	|	125971
+1	|	Globigerinita glutinata	|	 	|	69041
+1	|	Globoconella inflata	|	Globorotalia inflata	|	69028
+1	|	Globorotalia scitula	|	 	|	627510
+1	|	Globorotalia truncatulinoides	|	 	|	69029
+1	|	Neogloboquadrina incompta	|	 	|	627511
+1	|	Neogloboquadrina pachyderma	|	 	|	125957
+1	|	Neogloboquadrina dutertrei	|	 	|	51039
+1	|	Neogloboquadrina	|	 	|	51038
+3	|	Herentia hyndmanni	|	 	|	 
+1	|	Solmundella bitentaculata	|	 	|	497513
+1	|	Abylopsis tetragona	|	 	|	316209
+1	|	Agalma elegans	|	 	|	316166
+3	|	Cordagalma bimaculatum	|	 	|	 
+1	|	Diphyes dispar	|	 	|	316177
+1	|	Eudoxoides spiralis	|	 	|	645351
+3	|	Lensia subtilis	|	 	|	 
+1	|	Muggiaea atlantica	|	 	|	316203
+3	|	Sulculeolaria monoica	|	 	|	 
+1	|	Rhynchomonas	|	 	|	127149
+1	|	Neobodo	|	 	|	312470
+1	|	Lacrymaria olor	|	 	|	185695
+1	|	Litonotus paracygnus	|	 	|	346247
+3	|	Ampelisca pseudospinimana	|	 	|	 
+1	|	Ampelisca brevicornis	|	 	|	1229735
+1	|	Ampelisca typica	|	 	|	1229739
+1	|	Ampelisca diadema	|	 	|	1229736
+3	|	Apolochus neapolitanus	|	 	|	 
+1	|	Ampithoe ramondi	|	 	|	371466
+3	|	Biancolina algicola	|	 	|	 
+3	|	Aora spinicornis	|	 	|	 
+3	|	Microdeutopus versiculatus	|	 	|	 
+3	|	Microdeutopus gryllotalpa	|	 	|	 
+1	|	Microdeutopus chelifer	|	 	|	1400853
+3	|	Perrierella audouiniana	|	 	|	 
+3	|	Apherusa ovalipes	|	 	|	 
+3	|	Apherusa vexatrix	|	 	|	 
+3	|	Apherusa chiereghinii	|	 	|	 
+3	|	Cheirocratus sundevallii	|	 	|	 
+1	|	Leptocheirus hirsutimanus	|	 	|	2268660
+1	|	Monocorophium acherusicum	|	 	|	1582900
+1	|	Monocorophium insidiosum	|	 	|	1582901
+1	|	Dexamine spinosa	|	 	|	1453335
+1	|	Dexamine spiniventris	|	 	|	1920384
+3	|	Tritaeta gibbosa	|	 	|	 
+3	|	Eusirus longipes	|	 	|	 
+3	|	Iphimedia minuta	|	 	|	 
+1	|	Ericthonius brasiliensis	|	 	|	371446
+1	|	Ericthonius punctatus	|	 	|	1732104
+1	|	Jassa marmorata	|	 	|	385027
+1	|	Leucothoe spinicarpa	|	 	|	371469
+3	|	Lysianassa ceratina	|	 	|	 
+3	|	Elasmopus pocillimanus	|	 	|	 
+1	|	Elasmopus rapax	|	 	|	1400849
+3	|	Maera grossimana	|	 	|	 
+1	|	Othomaera othonis	|	 	|	2268709
+1	|	Abludomelita obtusata	|	 	|	1920391
+3	|	Abludomelita gladiosa	|	 	|	 
+1	|	Microprotopus maculatus	|	 	|	1732157
+1	|	Gammarella fucicola	|	 	|	1453330
+3	|	Normanion chevreuxi	|	 	|	 
+3	|	Pereionotus testudo	|	 	|	 
+1	|	Gammaropsis maculata	|	 	|	2268649
+3	|	Harpinia crenulata	|	 	|	 
+3	|	Metaphoxus simplex	|	 	|	 
+1	|	Stenothoe gallensis	|	 	|	2870527
+1	|	Stenothoe monoculoides	|	 	|	1732126
+1	|	Orchomene humilis	|	 	|	2268671
+1	|	Tryphosa nana	|	 	|	2268717
+3	|	Urothoe intermedia	|	 	|	 
+3	|	Bodotria arenosa	|	 	|	 
+1	|	Bodotria scorpioides	|	 	|	1732141
+1	|	Vaunthompsonia cristata	|	 	|	156642
+1	|	Synalpheus gambarelloides	|	 	|	242073
+1	|	Calcinus tubularis	|	 	|	656162
+1	|	Sirpus zariquieyi	|	 	|	557280
+1	|	Aegaeon lacazei	|	 	|	1130889
+1	|	Diogenes pugilator	|	 	|	1436025
+1	|	Galathea intermedia	|	 	|	1582884
+1	|	Hippolyte garciarasoi	|	 	|	1925265
+3	|	Achaeus cranchii	|	 	|	 
+1	|	Macropodia rostrata	|	 	|	1129405
+1	|	Macropodia linaresi	|	 	|	2930567
+1	|	Jaxea nocturna	|	 	|	177226
+1	|	Latreillia elegans	|	 	|	1129387
+1	|	Anapagurus hyndmanni	|	 	|	1453327
+1	|	Anapagurus chiroacanthus	|	 	|	1933384
+3	|	Anapagurus bicorniger	|	 	|	 
+1	|	Anapagurus laevis	|	 	|	891971
+1	|	Pagurus prideaux	|	 	|	654601
+1	|	Periclimenes scriptus	|	 	|	1857380
+1	|	Pandalina profunda	|	 	|	2268673
+1	|	Nepinnotheres pinnotheres	|	 	|	585942
+3	|	Processa macrophthalma	|	 	|	 
+1	|	Deosergestes henseni	|	 	|	2283560
+1	|	Sergestidae	|	 	|	111522
+1	|	Hymenopenaeus debilis	|	 	|	1129506
+3	|	Astacilla dilatata	|	 	|	 
+1	|	Eurydice pulchra	|	 	|	155694
+1	|	Natatolana borealis	|	 	|	1732115
+3	|	Gnathia dentata	|	 	|	 
+1	|	Gnathia maxillaris	|	 	|	2925006
+1	|	Cleantis prismatica	|	 	|	155690
+1	|	Idotea	|	 	|	82762
+3	|	Stenosoma carinata	|	 	|	 
+3	|	Joeropsis brevicornis	|	 	|	 
+3	|	Joeropsis brevicornis brevicornis	|	 	|	 
+3	|	Leptanthura apalpata	|	 	|	 
+3	|	Paranthura gracilipes	|	 	|	 
+1	|	Cymodoce truncata	|	 	|	2304707
+1	|	Lekanesphaera hookeri	|	 	|	161570
+1	|	Lophogaster typicus	|	 	|	419538
+1	|	Leptomysis mediterranea	|	 	|	419523
+3	|	Siriella clausii	|	 	|	 
+1	|	Mysida	|	 	|	75399
+3	|	Rissoides pallidus	|	 	|	 
+1	|	Apseudopsis latreillii	|	 	|	1453328
+3	|	Chondrochelia savignyi	|	 	|	 
+1	|	Tanais dulongii	|	 	|	314088
+1	|	Ostreococcus	|	 	|	70447
+1+	|	Micromonas	|	 	|	38832
+2+	|	Micromonas	|	Parvimonas	|	543311
+1+	|	Nitzschia	|	 	|	2857
+1+	|	Nitzschia	|	 	|	651811
+1	|	Paramecium bursaria	|	 	|	74790
+1	|	Zoothamnium pelagicum	|	 	|	404947
+1	|	Strombidium	|	 	|	60005
+1	|	Conchoecia magna	|	 	|	1774295
+1	|	Discoconchoecia elegans	|	 	|	702397
+1	|	Halocypris	|	 	|	1774346
+3	|	Loricoecia loricata	|	 	|	 
+3	|	Mikroconchoecia echinulata	|	 	|	 
+1	|	Mikroconchoecia curta	|	 	|	702409
+3	|	Heteronema acus	|	 	|	 
+1	|	Ectocarpus siliculosus	|	 	|	2880
+1	|	Trithigmostoma cucullulus	|	 	|	1346499
+1	|	Protodorvillea kefersteini	|	 	|	394771
+3	|	Lumbrineriopsis paradoxa	|	 	|	 
+1	|	Chrysopetalum debile	|	 	|	115833
+3	|	Lopadorrhynchus uncinatus	|	 	|	 
+3	|	Maupasia coeca	|	 	|	 
+1	|	Paralacydonia paradoxa	|	 	|	394766
+1	|	Malmgrenia ljungmani	|	 	|	2951305
+3	|	Malmgrenia lunulata	|	 	|	 
+1	|	Pholoe minuta	|	 	|	222013
+1	|	Eurysyllis tuberculata	|	 	|	418320
+1	|	Exogone naidina	|	 	|	199556
+1	|	Exogone verugera	|	 	|	397555
+1	|	Salvatoria clavata	|	 	|	418342
+1	|	Sphaerosyllis hystrix	|	 	|	199570
+1	|	Sphaerosyllis pirifera	|	 	|	418353
+1	|	Syllis gerlachi	|	 	|	418369
+3	|	Jasmineira caudata	|	 	|	 
+3	|	Prionospio multibranchiata	|	 	|	 
+1	|	Streblospio benedicti	|	 	|	95538
+3	|	Amage adspersa	|	 	|	 
+3	|	Caulleriella bioculata	|	 	|	 
+3	|	Capitella minima	|	 	|	 
+1	|	Owenia fusiformis	|	 	|	6347
+1	|	Lygdamis muratus	|	 	|	2738330
+1	|	Leptochiton cancellatus	|	 	|	993583
+1	|	Phaeocystis pouchetii	|	 	|	33659
+1	|	Chrysochromulina	|	 	|	35140
+1	|	Prymnesium	|	 	|	35143
+1	|	Chrysaora hysoscella	|	 	|	1105129
+1	|	Uronychia setigera	|	 	|	438879
+1	|	Holosticha diademata	|	 	|	331610
+1	|	Telonema	|	 	|	232264
+1	|	Derbesia tenuissima	|	 	|	481983
+3	|	Aspidosiphon (Aspidosiphon) muelleri kovalevskii	|	 	|	 
+3	|	Onchnesoma steenstrupii steenstrupii	|	 	|	 
+3	|	Apionsoma (Apionsoma) murinae	|	 	|	 
+1	|	Bryozoa	|	 	|	10205
+3	|	E222	|	 	|	 
+3	|	BCB5F14RJ2C02	|	 	|	 
+3	|	HE001005.112	|	 	|	 
+3	|	D52	|	 	|	 
+1	|	Amphibelone	|	 	|	278120
