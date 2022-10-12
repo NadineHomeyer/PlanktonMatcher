@@ -69,12 +69,12 @@ if __name__ == '__main__':
 
     # Header
     st.markdown("<h1><font color='darkblue'>Plankton Organisms in the region of Aguilas</font></h1>", unsafe_allow_html=True)
-    st.write("The organisms listed below have been observed in the region of Aguilas in the past. "
+    st.write("The plankton organisms listed below have been observed in the region of Aguilas in the past. "
             +"Please look through the list of organisms and read the information given on the linked pages. ")
-    st.write("The group of marine Chordata (fish) is displayed per default. Other groups can be displayed by secting "
-            "the radio button of the a group of the sidebar.")
+    st.write("The group of Copepods is displayed per default. Other groups can be displayed by selecting"
+            "the radio button of the respective taxon group in the sidebar.")
     st.write("In order to keep the loading time low only 50 images are shown on a page. You can switch between pages "
-             "by selecting the corresponding page from the drop-down list in the sidebar. Upon clicking to an image "
+             "by selecting the corresponding page from the drop-down list in the sidebar. Upon clicking on an image "
              "a larger version of the image and more information about the displayed species is shown at the bottom "
              "of the page.")
 
